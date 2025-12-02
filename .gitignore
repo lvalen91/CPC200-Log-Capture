@@ -1,0 +1,28 @@
+# Built outputs
+/build/
+/app/build/
+*.apk
+*.aab
+
+# Gradle
+.gradle/
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Signing keys - NEVER commit these
+*.jks
+*.keystore
+*.p12
+*.pem
+*.pk8
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db

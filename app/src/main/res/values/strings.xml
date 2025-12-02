@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adapter Log Reader</string>
+    <string name="notification_channel_name">Log Capture</string>
+    <string name="notification_channel_desc">Shows when log capture is active</string>
+    <string name="notification_title">Capturing Adapter Logs</string>
+    <string name="notification_text">Streaming logs from adapter</string>
+</resources>

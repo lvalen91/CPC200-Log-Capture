@@ -10,3 +10,5 @@ Hardcoded IP of 192.168.43.1 with a blank root password. CPC200-CCPA must be exp
 - Streams ttyLog
 - Allows recording to file
 - Export file
+
+Use gradle.properties to change package name and version code for Play Store upload
