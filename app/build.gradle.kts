@@ -28,7 +28,7 @@ android {
         create("release") {
             val keystorePath = System.getenv("KEYSTORE_PATH") ?: "/Users/zeno/Documents/store.jks"
             val keystorePass = System.getenv("KEYSTORE_PASSWORD") ?: ""
-            val keyAliasName = System.getenv("KEY_ALIAS") ?: "lvalentinzeno"
+            val keyAliasName = System.getenv("KEY_ALIAS") ?: "lvalen91"
             val keyPass = System.getenv("KEY_PASSWORD") ?: keystorePass
 
             storeFile = file(keystorePath)
